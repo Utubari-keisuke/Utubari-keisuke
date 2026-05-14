@@ -1,16 +1,16 @@
 # 👋 My Profile
 
-*   **👤 Name:** Alain Charles A. Aldrovandi
-*   **🎓 Education:** ZEN University (AI & Programming 3rd Year)
-*   **🚀 Projects:** Developing ["Null Geodesic"](https://github.com/Utubari-keisuke) & "Sora no Ki"
-*   **🏢 Work:** CHAYA 1899 TOKYO
-*   **🍵 Hobbies:** Tea Ceremony, Kyudo, Kendo, Badminton
+* **👤 Name:** 梁 景介 (Alain Charles A. Aldrovandi)
+* **🎓 Education:** ZEN University (AI & Programming 3rd Year)
+* **🚀 Projects:** Developing ["Null Geodesic"](https://github.com/Utubari-keisuke) & "Sora no Ki"
+* **🏢 Work:** CHAYA 1899 TOKYO / ASCOO
+* **🍵 Hobbies:** Tea Ceremony, Kyudo, Kendo, Badminton
 
 ### 🔗 Connect with me
 <p align="left">
-  <a href="https://www.instagram.com/stella411_816?igsh=cmZ4c3h4eXVlMWNt&utm_source=qr" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.threads.net/@stella411_816?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" /></a>
-  <a href="https://x.com/YOUR_ID" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/stella411_816?igsh=cmZ4c3h4eXVlMWNt&utm_source=qr" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.threads.net/@stella411_816?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" /></a>
+  <a href="https://x.com/YOUR_ID" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
 
 ---
@@ -27,18 +27,35 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </p>
 
 ## 📚 Library & Framework
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meteor-DE4F4F?style=for-the-badge&logo=meteor&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+## ☁️ Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_CodeCommit-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+## 🤖 AI Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Genspark-000000?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📩 Contact
-*   **Email:** utubarikeisuke0816@gmail.com
-*   **One-liner:** 「NASAに就職した友人を圧倒的にポコすためにあらゆる面から情報を記録中！」
+* **Email:** utubarikeisuke0816@gmail.com
+* **One-liner:** 「NASAに就職した友人を圧倒的にポコすためにあらゆる面から情報を記録中！」
