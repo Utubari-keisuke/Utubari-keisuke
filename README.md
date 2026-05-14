@@ -2,7 +2,7 @@
 
 # こんにちは! 👋 私は梁景介です
 
-### Web開発者を目指す情熱的な学習者です
+### NASAに就職した友人を圧倒的にボコすためにあらゆる面から情報を記録中！
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
