@@ -17,22 +17,30 @@
 
 ---
 
-## 🌟 GitHub Activity Visualizer
+---
+
+## 🛰 Development Orbit (活動状況)
+> GitHub上での作業進捗を「天体の動き」として可視化しています。
 
 <p align="center">
-  <!-- 3D Contribution Graph (image_2のような立体グラフ) -->
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Utubari-keisuke&theme=dark" alt="3D Contrib" />
+  <!-- 彗星（Snake）アニメーション: 青と白のグラデーションで彗星を表現 -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2381a1c1&color_dots=%23161b22,%234c566a,%235e81ac,%2381a1c1,%2388c0d0" alt="Comet Animation" />
+</p>
+
+### 📊 Activity Metrics
+立体グラフやトロフィーで、これまでの開発実績を分析しています。
+
+<p align="center">
+  <!-- 3Dグラフ -->
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Utubari-keisuke&theme=dark" width="80%" />
 </p>
 
 <p align="center">
-  <!-- 太陽系が回転するアニメーション (Snakeのように草を食べる代わりに惑星が動く) -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Solar System Animation" />
+  <!-- 実績トロフィー -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Utubari-keisuke&theme=tokyonight&column=4" alt="Trophies" />
 </p>
 
-<p align="center">
-  <!-- トロフィー（実績の可視化） -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Utubari-keisuke&theme=tokyonight" alt="Trophies" />
-</p>
+---
 
 ---
 
