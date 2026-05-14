@@ -10,6 +10,25 @@
 </p>
 
 ---
+
+## 📜 Certifications & Licenses
+
+### 🌍 Languages
+*   **実用英語技能検定 準1級
+*   **TOEIC L&R: 820** (Taken in 2021)
+*   **HSK Level 4** (中国語検定 4級)
+
+### 💻 Technology & Science
+*   **Qiskit Advocate Tier 0** (Quantum Computing)
+*   **JCQA Certified** (Coffee/Tea Quality)
+
+### ⚖️ Business & Others
+*   **Bookkeeping Level 3** (日商簿記 3級)
+*   **PPAL (Private Pistol Authorized License)**
+
+---
+
+---
 ## 🧑‍🚀 <img src="https://img.shields.io/badge/-About%20Me-4b0082?style=for-the-badge">
 
 ### <img src="https://img.shields.io/badge/-✧%20神秘と論理の境界にて%20✧-1a1a2e?style=flat-square">
