@@ -84,6 +84,29 @@ As a developer deeply interested in AI, space tech, and knowledge management, I 
 
 </details>
 
+
+<details>
+<summary><b>Français (French)</b></summary>
+
+Étudiant de deuxième année à l'Université ZEN, avec une spécialisation en IA et en programmation. Basé à Kanagawa et Sicu-Laza, je développe des applications utilisant des simulations d'astrophysique et l'intelligence artificielle. J'ai travaillé avec la **JAXA** et j'ai été chercheur à l'**ESA** (Agence spatiale européenne), où j'ai dirigé l'organisation « Astra Sphaera ». De plus, mon expérience au café d'hôtel « CHAYA 1899 TOKYO » m'a permis de m'intéresser à l'efficacité opérationnelle basée sur les données. Plus que le simple codage, je privilégie la création de systèmes capables de reproduire et de résoudre des phénomènes complexes, des lois de la physique aux émotions humaines, dans le monde numérique.
+
+Mon parcours d'apprentissage s'articule autour de l'observation, de l'enregistrement et de la gestion des connaissances, traversant des domaines tels que l'IA, la technologie spatiale, la mécanique quantique et les neurosciences. Je cherche à relier des structures invisibles dans une seule spécialité et à approfondir la compréhension de la relation entre l'homme et la technologie. Fort des connaissances partagées par mes pairs, je continue de travailler sur divers projets et conceptions conceptuelles.
+
+Développeur passionné par l'IA, l'espace et la gestion des connaissances, j'ai participé à un programme d'éducation spatiale en Floride en 2023. Depuis, je porte un vif intérêt aux technologies d'observation et à l'extension de la cognition humaine.
+
+</details>
+
+<details>
+<summary><b>한국어 (Korean)</b></summary>
+
+ZEN 대학교에서 AI 및 프로그래밍을 전공하고 있는 2학년 학생입니다. 가나가와와 시쿠라자를 거점으로 천체 물리 시뮬레이션 및 AI를 활용한 애플리케이션을 개발하고 있습니다. 지금까지 **JAXA**에서의 업무와 **ESA**(유럽 우주국)에서의 연구 경험이 있으며, 'Astra Sphaera' 조직을 이끌어 왔습니다. 또한 호텔 카페 'CHAYA 1899 TOKYO'에서의 아르바이트를 통해 데이터 기반 업무 효율화와 현장 운영 개선에도 관심을 갖게 되었습니다. 단순히 코드를 작성하는 것에 그치지 않고, 물리 법칙이나 인간의 감정 등 복잡한 현상을 디지털상에서 재현하고 해결하는 메커니즘을 만드는 것을 중시합니다.
+
+관측, 기록, 지식 관리를 축으로 AI·우주 기술·양자 역학·뇌신경 과학 등 여러 분야를 넘나들며 배우고 있습니다. 하나의 전문 분야만으로는 보이지 않는 구조를 연결하여 인간과 기술의 관계를 더 깊이 이해하는 것에 흥미가 있습니다. 동료들로부터 얻은 많은 지식을 자양분 삼아 현재도 다양한 프로젝트와 개념 설계에 매진하고 있습니다.
+
+AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023년 우주 교육 프로그램의 일환으로 플로리다에서 연수를 경험했습니다. 이후 관측 기술과 인류의 인식 확장이라는 주제에 강한 관심을 가지고 있습니다.
+
+</details>
+
 ---
 
 ## 🎯 Current Focus (現在の注力事項)
