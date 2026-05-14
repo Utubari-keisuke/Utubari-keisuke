@@ -56,6 +56,41 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🪐 [Space-Simulator](https://github.com/Utubari-keisuke/space-simulator)
+天体物理学の視点から宇宙の挙動を再現するシミュレーター。
+- **Tech:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+- **Focus:** 物理エンジンの構築、3Dレンダリング
+
+### 💠 [VIA](https://github.com/Utubari-keisuke/VIA)
+AIを活用したパーソナリティ・レプリケーション・プロジェクト。
+- **Tech:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
+- **Focus:** 人格の再現、対話インタフェースの構築
+
+---
+
+### 📂 More Repositories
+<p align="left">
+  <a href="https://github.com/Utubari-keisuke/multi-window-effect">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utubari-keisuke&repo=multi-window-effect&theme=dark" />
+  </a>
+  <a href="https://github.com/Utubari-keisuke/Astrayer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utubari-keisuke&repo=Astrayer&theme=dark" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Utubari-keisuke/revenue-simulation-streamlit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utubari-keisuke&repo=revenue-simulation-streamlit&theme=dark" />
+  </a>
+  <a href="https://github.com/Utubari-keisuke/my-first-work">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utubari-keisuke&repo=my-first-work&theme=dark" />
+  </a>
+</p>
+
+---
+
 ## 📩 Contact
 * **Email:** utubarikeisuke0816@gmail.com
 * **One-liner:** 「NASAに就職した友人を圧倒的にポコすためにあらゆる面から情報を記録中！」
