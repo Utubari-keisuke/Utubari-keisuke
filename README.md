@@ -1,10 +1,43 @@
-# 👋 My Profile
+## 🧑‍🚀 About Me
 
-* **👤 Name:** 梁 景介 (Alain Charles A. Aldrovandi)
-* **🎓 Education:** ZEN University (AI & Programming 3rd Year)
-* **🚀 Projects:** Developing ["Null Geodesic"](https://github.com/Utubari-keisuke) & "Sora no Ki"
-* **🏢 Work:** CHAYA 1899 TOKYO / ASCOO
-* **🍵 Hobbies:** Tea Ceremony, Kyudo, Kendo, Badminton
+<details open>
+<summary><b>日本語 (Japanese)</b></summary>
+
+ZEN大学でAIとプログラミングを専攻している大学3年生です。神奈川を拠点に、天体物理シミュレーションやAIを活用したアプリケーションの開発を行っています。
+
+これまでに**JAXA**での業務や、**ESA（欧州宇宙機関）**でのリサーチ経験があり、プロジェクト「Astra Sphaera」を率いてきました。また、ホテルカフェ「CHAYA 1899 TOKYO」でのアルバイトを通じて、データに基づいた業務効率化や現場のオペレーション改善にも関心を持っています。
+
+単にコードを書くのではなく、物理法則や人間の感情など、複雑な事象をデジタル上で再現・解決する仕組みを作ることを重視しています。
+
+*   **Web/Simulation:** React, Three.js を用いた物理演算の視覚化。
+*   **Backend/AI:** Python (Django) を使用したAPI実装とAI人格複製の研究。
+*   **Philosophy:** 徹底した論理分析に基づき、境界を明確にした設計を志向。
+
+</details>
+
+<details>
+<summary><b>English</b></summary>
+
+I am a 3rd-year student at ZEN University, majoring in AI and Programming. Based in Kanagawa, I focus on developing astrophysics simulations and AI-driven applications.
+
+With professional experience at **JAXA** and as a researcher at **ESA** (leading the Astra Sphaera organization), I have a strong background in space-related software development. Additionally, my part-time work at "CHAYA 1899 TOKYO" has sparked my interest in data-driven operational efficiency.
+
+My goal is not just to write code, but to build systems that replicate and solve complex phenomena—from the laws of physics to human emotions—within the digital realm.
+
+*   **Web/Simulation:** Visualizing physical calculations using React and Three.js.
+*   **Backend/AI:** API implementation with Python/Django and research into AI personality replication.
+*   **Philosophy:** Aiming for designs based on rigorous logical analysis and clear architectural boundaries.
+
+</details>
+
+---
+
+## 🎯 Current Focus (現在の注力事項)
+
+*   **General Relativity:** [Null Geodesic] におけるブラックホールの視覚化精度の向上。
+*   **AI Personality:** [Sora no Ki] を通じた、より人間らしい対話AIの構築。
+*   **Scalable Architecture:** Django と React を組み合わせた、保守性の高いフルスタック開発の追求。
+*   **Tea Culture & Tech:** 伝統的な茶道体験をデジタル技術でどう補完できるかの探究。
 
 ### 🔗 Connect with me
 <p align="left">
