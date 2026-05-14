@@ -1,7 +1,7 @@
 <div align="center">
 
-# こんにちは! 👋 私は梁景介です
-
+# Bonjour! 梁景介です
+# Arthur Chartiel Stela Chevalier
 ### NASAに就職した友人を圧倒的にボコすためにあらゆる面から情報を記録中！
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
