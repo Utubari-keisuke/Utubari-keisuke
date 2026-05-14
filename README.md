@@ -15,11 +15,26 @@
 
 ---
 
-## 🌟 GitHub Stats
+---
+
+## 🌟 GitHub Activity Visualizer
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utubari-keisuke&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utubari-keisuke&layout=compact&theme=dark" alt="Top Languages" />
+  <!-- 3D Contribution Graph (image_2のような立体グラフ) -->
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Utubari-keisuke&theme=dark" alt="3D Contrib" />
 </p>
+
+<p align="center">
+  <!-- 太陽系が回転するアニメーション (Snakeのように草を食べる代わりに惑星が動く) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Solar System Animation" />
+</p>
+
+<p align="center">
+  <!-- トロフィー（実績の可視化） -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Utubari-keisuke&theme=tokyonight" alt="Trophies" />
+</p>
+
+---
 
 ---
 
