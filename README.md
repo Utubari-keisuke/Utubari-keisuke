@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=%E6%A2%81%E6%99%AF%E4%BB%8B;ALAIN+CHARLES+A.+CHEVALIERI;%E2%9C%A7+Mystic+Logic+at+the+Boundaries+%E2%9C%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=%E6%A2%81%E6%99%AF%E4%BB%8B;ARTHUR+CHARLES+S.+CHEVALIERI;%E2%9C%A7+Mystic+Logic+at+the+Boundaries+%E2%9C%A7" alt="Typing SVG" />
 </p>
 
 <p align="center">
