@@ -1,5 +1,11 @@
-# 梁景介 | UTUBARI（ITINOSE） KEISUKE
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&lines=梁景介;ALAIN+CHARLES+A.+ALDROVANDI;✧+Mystic+Logic+at+the+Boundaries+✧" alt="Typing SVG" />
+</p>
 
+---
+## 🧑‍🚀 <img src="https://img.shields.io/badge/-About%20Me-4b0082?style=for-the-badge">
+
+### <img src="https://img.shields.io/badge/-✧%20神秘と論理の境界にて%20✧-1a1a2e?style=flat-square">
 <details open>
 <summary><b>日本語 (Japanese)</b></summary>
 
