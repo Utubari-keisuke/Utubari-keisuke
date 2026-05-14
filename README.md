@@ -39,19 +39,7 @@ Rather than simply writing code, I prioritize building systems that replicate an
 My learning journey spans multiple disciplines, including AI, space technology, quantum mechanics, and neuroscience, centered around the pillars of observation, recording, and knowledge management. I am driven by a desire to connect structures invisible within a single specialty and to deepen the understanding of the relationship between humanity and technology. Drawing inspiration from the vast knowledge shared by my peers, I continue to work on various projects and conceptual designs.
 
 As a developer deeply interested in AI, space tech, and knowledge management, I participated in a space education program in Florida in 2023. Since then, I have maintained a profound focus on observation technologies and the expansion of human cognition.
-
-
-I am a 3rd-year student at ZEN University, majoring in AI and Programming. Based in Kanagawa, I focus on developing astrophysics simulations and AI-driven applications.
-
-With professional experience at **JAXA** and as a researcher at **ESA** (leading the Astra Sphaera organization), I have a strong background in space-related software development. Additionally, my part-time work at "CHAYA 1899 TOKYO" has sparked my interest in data-driven operational efficiency.
-
-My goal is not just to write code, but to build systems that replicate and solve complex phenomena—from the laws of physics to human emotions—within the digital realm.
-
-*   **Web/Simulation:** Visualizing physical calculations using React and Three.js.
-*   **Backend/AI:** API implementation with Python/Django and research into AI personality replication.
-*   **Philosophy:** Aiming for designs based on rigorous logical analysis and clear architectural boundaries.
-
-</details>
+<details>
 
 ---
 
