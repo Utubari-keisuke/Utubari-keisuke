@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm Altalf! 👋
+
+I'm a software developer passionate about open-source projects and web development.
+
+## Skills
+
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, VS Code
+
+## バッジ
+
+![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
