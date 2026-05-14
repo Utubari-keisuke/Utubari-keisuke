@@ -74,7 +74,7 @@ As a developer deeply interested in AI, space tech, and knowledge management, I 
 </details>
 
 <details>
-<summary><b>▶ 中文 (Chinese)</b></summary>
+<summary><b>中文 (Chinese)</b></summary>
 
 我是ZEN大学人工智能与编程专业的二年级学生。目前以神奈川和 Sicu-Laza 为据点，致力于天体物理模拟及人工智能应用的开发。我曾参与 **JAXA** 的相关业务，并作为 **ESA**（欧洲空间局）的研究员领导了 "Astra Sphaera" 组织。此外，通过在酒店咖啡厅 "CHAYA 1899 TOKYO" 的实习，我也对基于数据的业务效率提升及现场运营改善产生了浓厚兴趣。
 
