@@ -73,6 +73,17 @@ My learning journey spans multiple disciplines, including AI, space technology, 
 As a developer deeply interested in AI, space tech, and knowledge management, I participated in a space education program in Florida in 2023. Since then, I have maintained a profound focus on observation technologies and the expansion of human cognition.
 </details>
 
+<details>
+<summary><b>▶ 中文 (Chinese)</b></summary>
+
+我是ZEN大学人工智能与编程专业的二年级学生。目前以神奈川和 Sicu-Laza 为据点，致力于天体物理模拟及人工智能应用的开发。我曾参与 **JAXA** 的相关业务，并作为 **ESA**（欧洲空间局）的研究员领导了 "Astra Sphaera" 组织。此外，通过在酒店咖啡厅 "CHAYA 1899 TOKYO" 的实习，我也对基于数据的业务效率提升及现场运营改善产生了浓厚兴趣。
+
+我的开发理念不仅限于编写代码，更注重于构建能够在数字世界中重现并解决物理定律、人类情感等复杂现象的系统。
+
+我以观测、记录、知识管理为核心，跨学科钻研人工智能、航天技术、量子力学及神经科学等领域。我渴望连接单一专业领域难以洞察的结构，深层次探究人与技术之间的关系。在朋友和伙伴们提供的丰富知识储备基础上，我目前正致力于多个项目和概念设计。作为一名深耕人工智能、航天技术及知识管理领域的开发者，我于 2023 年作为航天教育计划的一环前往佛罗里达进行了研修。此后，我对观测技术以及人类认知扩张等课题保持着强烈的关注。
+
+</details>
+
 ---
 
 ## 🎯 Current Focus (現在の注力事項)
