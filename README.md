@@ -15,7 +15,6 @@
 
 ### 🌍 Languages
 *   実用英語技能検定 準1級
-*   **TOEIC L&R: 820** (Taken in 2021)
 *   **HSK Level 4** (中国語検定 4級)
 
 ### 💻 Technology & Science
