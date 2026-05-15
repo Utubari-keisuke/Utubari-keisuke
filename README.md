@@ -195,7 +195,7 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 - **Tech:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 - **Focus:** 物理エンジンの構築、3Dレンダリング
 
-### 💠 [Astrayer](https://github.com/Utubari-keisuke/Astrayer))
+### 💠 [Astrayer](https://github.com/Utubari-keisuke/Astrayer)
 ARグラスに入れることを想定した物体認識ダウンロードコンテンツ。
 - **Tech:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
 - **Focus:** 物体の素材、詳細をAR空間常に出現させる機能を開発中
