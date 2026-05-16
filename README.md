@@ -193,7 +193,7 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 ### 🪐 [Space-Simulator](https://github.com/Utubari-keisuke/space-simulator)
 天体物理学の視点から宇宙の挙動を再現するシミュレーター。
 - **Tech:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-- **Focus:** 物理エンジンの構築、3Dレンダリング、[NASAが提供しているシュミレーター](https://eyes.nasa.gov/apps/solar-system/#/home)や[Space Enginer](https://spaceengine.org/)などを参考に制作。
+- **Focus:** 物理エンジンの構築、3Dレンダリング、[NASAが提供しているシュミレーター](https://eyes.nasa.gov/apps/solar-system/#/home)や[SpaceEngine](https://spaceengine.org/)などを参考に制作。
 
 ### 💠 [Astrayer](https://github.com/Utubari-keisuke/Astrayer)
 ARグラスに入れることを想定した物体認識ダウンロードコンテンツ。
