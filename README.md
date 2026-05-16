@@ -15,14 +15,14 @@
 
 ### 🌍 Languages
 *   実用英語技能検定 準1級
-*   **HSK Level 4** (中国語検定 4級)
+*   中国語検定 4級
 
 ### 💻 Technology & Science
 *   **Qiskit Advocate Tier 0** (Quantum Computing)
 *   **JCQA Certified** (Coffee/Tea Quality)
 
 ### ⚖️ Business & Others
-*   **Bookkeeping Level 3** (日商簿記 3級)
+*   日商簿記 3級
 *   **PPAL (Private Pistol Authorized License)**
 
 ---
