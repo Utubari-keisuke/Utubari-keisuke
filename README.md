@@ -19,7 +19,7 @@
 
 ### 💻 Technology & Science
 *   **Qiskit Advocate Tier 0** (Quantum Computing)
-*   **JCQA Certified** (Coffee/Tea Quality)
+*   **JCQA** (アニーリング式/ゲート式)
 
 ### ⚖️ Business & Others
 *   日商簿記 3級
