@@ -200,23 +200,7 @@ ARグラスに入れることを想定した物体認識ダウンロードコン
 ---
 
 ### 📂 More Repositories
-<p align="left">
-  <a href="https://github.com/Utubari-keisuke/multi-window-effect">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utubari-keisuke&repo=multi-window-effect&theme=dark" />
-  </a>
-  <a href="https://github.com/Utubari-keisuke/Astrayer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utubari-keisuke&repo=Astrayer&theme=dark" />
-  </a>
-</p>
 
-<p align="left">
-  <a href="https://github.com/Utubari-keisuke/revenue-simulation-streamlit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utubari-keisuke&repo=revenue-simulation-streamlit&theme=dark" />
-  </a>
-  <a href="https://github.com/Utubari-keisuke/my-first-work">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utubari-keisuke&repo=my-first-work&theme=dark" />
-  </a>
-</p>
 
 ---
 
