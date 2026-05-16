@@ -121,9 +121,7 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
   <a href="https://x.com/YOUR_ID" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
 
----
 
----
 
 ---
 
