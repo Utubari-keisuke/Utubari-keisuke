@@ -29,7 +29,7 @@
 
 ## 🧑‍🚀 <img src="https://img.shields.io/badge/-About%20Me-4b0082?style=for-the-badge">
 
-### <img src="https://img.shields.io/badge/-✧%20神秘と論理の境界にて%20✧-1a1a2e?style=flat-square">
+### <img src="https://img.shields.io/badge/-✧%20星名に似合う人生を%20✧-1a1a2e?style=flat-square">
 <details open>
 <summary><b>日本語 (Japanese)</b></summary>
 
