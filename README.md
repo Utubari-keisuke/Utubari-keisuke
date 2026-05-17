@@ -136,11 +136,9 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 
 
 ### 📊 Activity Metrics
-> これまでの開発実績の統計です。
-
+> 開発の継続性と実績を可視化しています。
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utubari-keisuke&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utubari-keisuke&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utubari-keisuke&theme=tokyonight" />
 </p>
 
 <p align="center">
