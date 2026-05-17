@@ -136,19 +136,17 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 ### 📊 Activity Metrics
 立体グラフやトロフィーで、これまでの開発実績を分析しています。
 
+### 📊 Activity Metrics
+> これまでの開発実績の統計です。
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utubari-keisuke&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utubari-keisuke&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Utubari-keisuke&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utubari-keisuke&layout=compact&theme=tokyonight" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=utubari-keisuke&theme=dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Utubari-keisuke&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utubari-keisuke&theme=tokyonight&column=4" />
-</p>
-
 
 
 ---
