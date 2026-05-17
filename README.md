@@ -137,10 +137,9 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 ### 📊 Activity Metrics
 > これまでの開発実績の統計です。
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utubari-keisuke&theme=tokyonight&v=20260517" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utubari-keisuke&layout=compact&theme=tokyonight&v=20260517" width="300" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Utubari-keisuke=anuraghazra
+)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Utubari-keisuke&theme=tokyonight" />
