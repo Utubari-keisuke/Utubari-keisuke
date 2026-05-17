@@ -133,15 +133,13 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2381a1c1&color_dots=%23161b22,%234c566a,%235e81ac,%2381a1c1,%2388c0d0" alt="Comet Animation" />
 </p>
 
-### 📊 Activity Metrics
-立体グラフやトロフィーで、これまでの開発実績を分析しています。
 
 ### 📊 Activity Metrics
 > これまでの開発実績の統計です。
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utubari-keisuke&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utubari-keisuke&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Utubari-keisuke&theme=tokyonight&v=20260517" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utubari-keisuke&layout=compact&theme=tokyonight&v=20260517" width="300" />
 </p>
 
 <p align="center">
