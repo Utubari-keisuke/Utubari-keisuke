@@ -129,7 +129,6 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 > GitHub上での作業進捗を「天体の動き」として可視化しています。
 
 <p align="center">
-  <!-- 彗星（Snake）アニメーション: 青と白のグラデーションで彗星を表現 -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2381a1c1&color_dots=%23161b22,%234c566a,%235e81ac,%2381a1c1,%2388c0d0" alt="Comet Animation" />
 </p>
 
