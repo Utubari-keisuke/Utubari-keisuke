@@ -24,6 +24,7 @@
 ### ⚖️ Business & Others
 *   日商簿記 3級
 *   **PPAL (Private Pistol Authorized License)**
+*   Passeport Talent（元保有）
 
 ---
 
