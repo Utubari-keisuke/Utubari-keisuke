@@ -137,6 +137,9 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 
 ### 📊 Activity Metrics
 > 開発の継続性と実績を可視化しています。
+
+[GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Utubari-keisuke&show_icons=true&theme=vue-dark)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utubari-keisuke&theme=tokyonight" />
 </p>
