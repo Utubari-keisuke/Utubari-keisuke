@@ -126,8 +126,7 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 <p align="left">
   <a href="https://www.instagram.com/stella411_816?igsh=cmZ4c3h4eXVlMWNt&utm_source=qr" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.threads.net/@stella411_816?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" /></a>
-  <a href="https://x.com/YOUR_ID" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-</p>
+ 
 
 
 
