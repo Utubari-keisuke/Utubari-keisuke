@@ -59,6 +59,7 @@ AI、宇宙技術、知識管理分野に関心を持つ開発者。
 ・分散システム
 ・宇宙・観測技術
 ・多文化環境での共同開発
+・惑星環境学
 
 *   **Web/Simulation:** React, Three.js を用いた物理演算の視覚化。
 *   **Backend/AI:** Python (Django) を使用したAPI実装とAI人格複製の研究。
