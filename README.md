@@ -16,6 +16,7 @@
 ### 🌍 Languages
 *   実用英語技能検定 準1級
 *   中国語検定 4級
+*   
 
 ### 💻 Technology & Science
 *   **Qiskit Advocate Tier 0** (Quantum Computing)
