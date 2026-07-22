@@ -16,7 +16,6 @@
 ### 🌍 Languages
 *   実用英語技能検定 準1級
 *   中国語検定 4級
-*   
 
 ### 💻 Technology & Science
 *   **Qiskit Advocate Tier 0** (Quantum Computing)
@@ -114,6 +113,10 @@ ZEN 대학교에서 AI 및 프로그래밍을 전공하고 있는 2학년 학생
 AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023년 우주 교육 프로그램의 일환으로 플로리다에서 연수를 경험했습니다. 이후 관측 기술과 인류의 인식 확장이라는 주제에 강한 관심을 가지고 있습니다.
 
 </details>
+
+<detail>
+<summary><b>한국어 (Svenska)</b></summary>
+</detail>
 
 ---
 
