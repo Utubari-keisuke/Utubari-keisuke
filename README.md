@@ -219,5 +219,5 @@ ARグラスに入れることを想定した物体認識ダウンロードコン
 ## 📩 Contact
 ### <img src="https://img.shields.io/badge/-✧%20亡き許嫁：一ノ瀬結衣との約束の為に！%20✧-1a1a2e?style=flat-square">
 * **Email:** utubarikeisuke0816@gmail.com
-* **One-liner:** 「NASAに就職した友人を圧倒的にボコすためにあらゆる面から情報を記録中！」
+* **One-liner:** 「NASAに就職した久我慧祐と亡き大親友の四条真澄を超えるために勉強中！」
 
