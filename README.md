@@ -20,6 +20,7 @@
 ### 💻 Technology & Science
 *   **Qiskit Advocate Tier 0** (Quantum Computing)
 *   **JCQA** (アニーリング式/ゲート式)
+*   基本情報技術者
 
 ### ⚖️ Business & Others
 *   日商簿記 3級
