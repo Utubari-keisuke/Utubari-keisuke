@@ -24,8 +24,6 @@
 
 ### ⚖️ Business & Others
 *   日商簿記 3級
-*   **PPAL (Private Pistol Authorized License)**
-*   Passeport Talent（元保有）
 
 ---
 
@@ -157,9 +155,7 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utubari-keisuke&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Utubari-keisuke&theme=tokyonight" />
-</p>
+
 
 ---
 
