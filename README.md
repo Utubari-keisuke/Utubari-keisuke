@@ -137,32 +137,15 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 
 ---
 
-## 🛰 Development Orbit (活動状況)
-> GitHub上での作業進捗を「天体の動き」として可視化しています。
+
 
 ### 📊 GitHub Activity Stats
 
-<!-- GitHub Readme Stats (言語使用比率) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utubari-keisuke&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Utubari-keisuke's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Utubari-keisuke&theme=github-dark)](https://github.com/ashutosh00712/github-readme-activity-graph)
 
-<!-- GitHub Readme Stats (総合ステータスカード) -->
-[![Utubari-keisuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utubari-keisuke&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 🚀 Current Project Progress
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Utubari-keisuke&theme=dark)](https://git.io/streak-stats)
-
-
-### 📊 Activity Metrics
-> 開発の継続性と実績を可視化しています。
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Utubari-keisuke&show_icons=true&theme=vue-dark)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utubari-keisuke&theme=tokyonight" />
-</p>
 
 
 
