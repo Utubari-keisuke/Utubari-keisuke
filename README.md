@@ -140,9 +140,26 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 ## 🛰 Development Orbit (活動状況)
 > GitHub上での作業進捗を「天体の動き」として可視化しています。
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2381a1c1&color_dots=%23161b22,%234c566a,%235e81ac,%2381a1c1,%2388c0d0" alt="Comet Animation" />
-</p>
+### 📊 GitHub Activity Stats
+
+<!-- GitHub Readme Stats (言語使用比率) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utubari-keisuke&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- GitHub Readme Stats (総合ステータスカード) -->
+[![Utubari-keisuke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utubari-keisuke&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🚀 Current Project Progress
+
+<!-- Shields.io によるカスタム進捗バッジの例 -->
+![Project Progress](https://img.shields.io/badge/Main_Project-75%25_Completed-brightgreen?style=for-the-badge&logo=github)
+![Simulation Module](https://img.shields.io/badge/Simulation_Module-In_Development-blue?style=for-the-badge)
+
+<!-- HTMLの progress タグを使ったタスク進捗 -->
+- **シミュレーションエンジンの開発:** <progress value="85" max="100"></progress> 85%
+- **アルゴリズム最適化:** <progress value="50" max="100"></progress> 50%
+- **ドキュメント作成:** <progress value="30" max="100"></progress> 30%
 
 
 
