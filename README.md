@@ -152,15 +152,7 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 
 ### 🚀 Current Project Progress
 
-<!-- Shields.io によるカスタム進捗バッジの例 -->
-![Project Progress](https://img.shields.io/badge/Main_Project-75%25_Completed-brightgreen?style=for-the-badge&logo=github)
-![Simulation Module](https://img.shields.io/badge/Simulation_Module-In_Development-blue?style=for-the-badge)
-
-<!-- HTMLの progress タグを使ったタスク進捗 -->
-- **シミュレーションエンジンの開発:** <progress value="85" max="100"></progress> 85%
-- **アルゴリズム最適化:** <progress value="50" max="100"></progress> 50%
-- **ドキュメント作成:** <progress value="30" max="100"></progress> 30%
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Utubari-keisuke&theme=dark)](https://git.io/streak-stats)
 
 
 ### 📊 Activity Metrics
