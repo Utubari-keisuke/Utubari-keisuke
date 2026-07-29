@@ -111,9 +111,14 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 
 <details>
 <summary><b>Svenska(Svenska)</b></summary>
-  
-  God morgon
-  
+Jag är en andraårsstudent vid ZEN-universitetet med huvudämne inom AI och programmering.
+Med Kanagawa prefektur som min främsta bas utvecklar jag applikationer som utnyttjar astrofysiska simuleringar och AI.
+Hittills har jag genomfört praktikplatser vid National Astronomical Observatory of Japan (NAOJ) och JAXA, samt genom rekommendationer från min far och morbror/farbror rest till Kina och Kanada. Där har jag lett projektet "STAR ANCHOR" för att utveckla högpresterande AI tillsammans med likasinnade kollegor.
+Dessutom har jag genom mitt extrajobb på hotellcaféet "CHAYA 1899 TOKYO" utvecklat ett intresse för datadriven effektivisering av verksamheten och förbättring av operativt arbete på plats.
+Jag lägger stor vikt vid att inte bara skriva kod, utan vid att skapa system som digitalt återskapar och löser komplexa fenomen, såsom fysikens lagar och mänskliga känslor.
+Med fokus på observation, dokumentation och kunskapshantering fortsätter jag mitt lärande över flera ämnesområden, inklusive AI, rymdteknik, kvantmekanik och neurovetenskap.
+Jag är intresserad av att koppla samman strukturer som inte syns inom ett enskilt specialområde, för att på så sätt nå en djupare förståelse för relationen mellan människor och teknik.
+Med den omfattande kunskap jag fått från vänner och kollegor som min grund arbetar jag för närvarande vidare med olika projekt och konceptuella designer.
 </details>
 
 ---
