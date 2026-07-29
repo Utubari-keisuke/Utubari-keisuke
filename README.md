@@ -109,12 +109,12 @@ AI, 우주 기술, 지식 관리 분야에 관심을 가진 개발자로서 2023
 
 </details>
 
-<detail>
+<details>
 <summary><b>Svenska(Svenska)</b></summary>
   
   God morgon
   
-</detail>
+</details>
 
 ---
 
