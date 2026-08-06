@@ -198,14 +198,6 @@ Med den omfattande kunskap jag fått från vänner och kollegor som min grund ar
 ARグラスに入れることを想定した物体認識ダウンロードコンテンツ。
 - **Tech:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
 - **Focus:** 物体の素材、詳細をAR空間常に出現させる機能を開発中
-
----
-
-### 📂 More Repositories
-
-![International Space Station](画像のURL)
-
-
 ---
 
 ## 📩 Contact
