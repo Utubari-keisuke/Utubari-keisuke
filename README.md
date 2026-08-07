@@ -194,10 +194,10 @@ Med den omfattande kunskap jag fått från vänner och kollegor som min grund ar
 - **Tech:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 - **Focus:** 物理エンジンの構築、3Dレンダリング、[NASAが提供しているシュミレーター](https://eyes.nasa.gov/apps/solar-system/#/home)や[SpaceEngine](https://spaceengine.org/)などを参考に制作。
 
-### 💠 [Astrayer](https://github.com/Utubari-keisuke/Astrayer)
-ARグラスに入れることを想定した物体認識ダウンロードコンテンツ。
-- **Tech:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
-- **Focus:** 物体の素材、詳細をAR空間常に出現させる機能を開発中
+### 💠 [Star Lance Oceon](https://github.com/Utubari-keisuke/Star-Lance-)
+とあるAIの記憶空間を視覚化した３Dメモ。
+- **Tech:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+- **Focus:** AIが管理してくれる最高のメモを制作。
 ---
 
 ## 📩 Contact
